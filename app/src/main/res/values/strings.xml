@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">ChemPlan</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Домашняя</string>
+    <string name="second_fragment_label">Ввод факторов</string>
+    <string name="results_fragment_label">Результаты</string>
+    <string name="next">Вперёд</string>
+    <string name="start">Начать</string>
+    <string name="previous">Назад</string>
+
+    <string name="measures_count">Количество факторов учитываемых в эксперименте :
+</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="add_measurement_header">Введите «имя» и уровни варьирования факторов
+</string>
+    <string name="factor_name">Имя Фактора</string>
+    <string name="lover_factor_level">Нижний уровень фактора</string>
+    <string name="middle_factor_level">Средний уровень фактора</string>
+    <string name="upper_factor_level">Верхний уровень фактора</string>
+    <string name="begin">Начать</string>
+    <string name="randomize">Рандомизировать последовательность опытов</string>
+    <string name="back">Назад</string>
+    <string name="export">Экспортировать в .xls</string>
+</resources>

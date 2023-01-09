@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/factorImpact"
+    android:layout_width="60dp"
+    android:layout_height="36dp"
+    android:layout_gravity="center_horizontal"
+    android:layout_marginHorizontal="3dp"
+    android:background="@color/cardview_shadow_start_color"
+    android:textAlignment="center"
+    android:textAppearance="?attr/textAppearanceListItem" />
